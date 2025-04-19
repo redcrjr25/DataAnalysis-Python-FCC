@@ -1,0 +1,1 @@
+This is the Data Analysis with Python module within Free Code Camp.  So far there are 2 lectures and 2 exercises available for upload.  Taking this course to enhance my Python and Data Analysis skills.
